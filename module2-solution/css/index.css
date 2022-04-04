@@ -50,6 +50,7 @@ p{
     background-color: aliceblue;
 }
 
+/* Media Queries */
 @media screen and (min-width: 992px) {
     .div-inside-container{
         width: 31%;
