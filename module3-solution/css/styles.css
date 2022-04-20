@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.container{
+    margin: 0px;
+}
+
+.items{
+    margin: 15px;
+    padding: 15px;
+    background-color: gray;
+}
+
+.navbar-default{
+    background-color: gray;
+}
+
+.navbar-toggle{
+    margin: 15px 0px;
+}
+
+.navbar-content{
+    color: black;
+    font-size: 42px;
+    padding: 12px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+}
